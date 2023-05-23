@@ -11,7 +11,7 @@
 :root {
     --main-font-family: 'Montserrat', sans-serif;
     --main-font-weight: 400;
-    --main-background-color:  #E2E7FA;
+    --main-background-color: #E2E7FA;
     --main-font-color: #000000;
 }
 
@@ -34,4 +34,16 @@ ul, ol {
     list-style-type: none;
 }
 
+.container {
+    max-width: 132rem;
+    width: 100%;
+    margin: 0 auto;
+}
+
+img {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
 
