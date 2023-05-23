@@ -10,17 +10,6 @@
     width: max-content;
 }
 
-.card {
-    background: #FFFFFF;
-    border-radius: 15px;
-    width: 4.05rem;
-    height: 2.78rem;
-}
-
-.container {
-    width: 132rem;
-}
-
 footer {
     display: flex;
     justify-content: center;
